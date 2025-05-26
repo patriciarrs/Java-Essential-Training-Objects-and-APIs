@@ -1,4 +1,4 @@
-package inheritance;
+package inheritance.people;
 
 /*
 Inheritance is one of the pillars of object-oriented programming.
@@ -12,7 +12,7 @@ public class InheritanceChecker {
         Only protected and public fields and methods can be inherited.
         */
 
-        Person person = new Person();
+        // Person person = new Person();
         // person.
 
         Employee employee = new Employee();
